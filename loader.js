@@ -3,3 +3,4 @@ document.querySelector(".unique_hits").innerHTML = 4438616+3480+5604+4820+3555+3
 document.querySelector(".today_hits").innerHTML = 547;
        
    
+     
