@@ -2,3 +2,4 @@ document.querySelector(".total_hits").innerHTML = 17439424+21550+23656+21051+320
 document.querySelector(".unique_hits").innerHTML = 4532073+2043+2276+2028+3153+4573+5251+3689+2866+4222+4314+4441+3809+3583+3153+3992+4494+4286+3711;
 document.querySelector(".today_hits").innerHTML = 35187;
    
+ 
