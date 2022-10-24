@@ -3,3 +3,4 @@ document.querySelector(".unique_hits").innerHTML = 4532073+2043+2276+2028+3153+4
 document.querySelector(".today_hits").innerHTML = 1395;
    
  
+ 
