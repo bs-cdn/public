@@ -2,6 +2,6 @@ document.querySelector(".total_hits").innerHTML = 18977502+23244+35235+36220+172
 document.querySelector(".unique_hits").innerHTML = 4692700+2769+3860+3642+1608+3366+1573+2191+1563+2975+3149+3153+3136+3822+2454+1753+3105+2863+2925+3633+4493+3162+2794+5014+4675+4231+3959;
 document.querySelector(".today_hits").innerHTML = 39143;
     
- 
+  
  
  
